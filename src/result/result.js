@@ -22,7 +22,7 @@ export class Result extends React.Component {
         </div>
         <footer id="options">
           <p><Link to="/questions/0">Retake the quiz!</Link></p>
-          {/* <p><Link to="/question">Contribute to question set!</Link></p> */}
+          
         </footer>
       </React.Fragment>
     );
