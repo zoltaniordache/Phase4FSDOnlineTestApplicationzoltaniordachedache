@@ -1,0 +1,133 @@
+﻿{
+    "questions": [
+      {
+          "question": "Where are the three smallest bones in the human body?",
+          "choiceA": "middle ear",
+          "choiceB": "nose",
+          "choiceC": "toes",
+          "choiceD": "eyes",
+          "correct": "A"
+      },
+      {
+          "question": "What is the most abundant element in the Universe?",
+          "choiceA": "Helium",
+          "choiceB": "Oxygen",
+          "choiceC": "Lithium",
+          "choiceD": "Hydrogen",
+          "correct": "D"
+      },
+      {
+          "question": "Approximately how long does it take for light to travel from the Sun's surface to the Earth?",
+          "choiceA": "8 days",
+          "choiceB": "8 seconds",
+          "choiceC": "8 minutes",
+          "choiceD": "8 hours",
+          "correct": "C"
+      },
+      {
+          "question": "What is the scientific name of a butterfly?",
+          "choiceA": "Apis",
+          "choiceB": "Coleoptera",
+          "choiceC": "Formicidae",
+          "choiceD": "Rhopalocera",
+          "correct": "D"
+      },
+      {
+          "question": "How hot is the surface of the sun?",
+          "choiceA": "1,233 K",
+          "choiceB": "5,778 K",
+          "choiceC": "12,130 K",
+          "choiceD": "101,300 K",
+          "correct": "B"
+      }
+	  ,
+      {
+           "question":"Who are the actors in The Internship?",
+		   "choiceA": "Ben Stiller, Jonah Hill",
+			"choiceB": "Courteney Cox, Matt LeBlanc",
+			"choiceC": "Kaley Cuoco, Jim Parsons",
+			"choiceD": "Vince Vaughn, Owen Wilson",
+            "correct": "D"
+      }
+	  ,
+      {
+			"question":"What is the capital of Spain?",
+			"choiceA": "Berlin",
+			"choiceB": "Buenos Aires",
+			"choiceC": "Madrid",
+			"choiceD": "San Juan",
+			"correct": "C"
+      }
+	  ,
+      {
+			"question":"What are the school colors of the University of Texas at Austin?",
+			"choiceA": "Black, Red",
+			"choiceB": "Blue, Orange",
+			"choiceC": "White, Burnt Orange",
+			"choiceD": "White, Old gold, Gold",
+			"correct": "C"
+      }
+	  ,
+      {
+			"question":"What is 70 degrees Fahrenheit in Celsius?",
+			"choiceA": "18.8889",
+			"choiceB": "20",
+			"choiceC": "21.1111",
+			"choiceD": "158",
+			"correct": "C"
+      }
+	  ,
+      {
+			"question":"When was Mahatma Gandhi born?",
+			"choiceA": "October 2, 1869",
+			"choiceB": "December 15, 1872",
+			"choiceC": "July 18, 1918",
+			"choiceD": "January 15, 1929",
+			"correct": "A"
+      },
+      {
+			"question":"How far is the moon from Earth?",
+			"choiceA": "7,918 miles (12,742 km)",
+			"choiceB": "86,881 miles (139,822 km)",
+			"choiceC": "238,400 miles (384,400 km)",
+			"choiceD": "35,980,000 miles (57,910,000 km)",
+			"correct": "C"
+      }
+	  ,
+      {
+			"question":"What is 65 times 52?",
+			"choiceA": "117",
+			"choiceB": "3120",
+			"choiceC": "3380",
+			"choiceD": "3520",
+			"correct": "C"
+      }
+	  ,
+      {
+			"question":"How tall is Mount Everest?",
+			"choiceA": "6,683 ft (2,037 m)",
+			"choiceB": "7,918 ft (2,413 m)",
+			"choiceC": "19,341 ft (5,895 m)",
+			"choiceD": "29,029 ft (8,847 m)",
+			"correct": "D"
+      }
+	  ,
+      {
+			"question":"When did The Avengers come out?",
+			"choiceA": "May 2, 2008",
+			"choiceB": "May 4, 2012",
+			"choiceC": "May 3, 2013",
+			"choiceD": "April 4, 2014",
+			"correct": "B"
+      }
+	  	  ,
+      {
+			"question":"What is 48,879 in hexidecimal?",
+			"choiceA": "0x18C1",
+			"choiceB": "0xBEEF",
+			"choiceC": "0xDEAD",
+			"choiceD": "0x12D591",
+			"correct": "B"
+      }
+    ]
+}
